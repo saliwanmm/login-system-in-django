@@ -49,3 +49,5 @@ $ sudo docker-compose build
 ```
 $ sudo docker-compose up
 ```
+
+**Superuser: username - admin, password - admin.**
